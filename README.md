@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkuGenerator
 
 It takes the advantage of models and its associations to make it decodable unique over the application.
@@ -31,3 +32,5 @@ Checkout the code documentation for more details
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+This tool will generate sku (stock keeping unit) for e-commerce application
