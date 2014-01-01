@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email = ["pavan.agrawala@gmail.com"]
   spec.summary = %q{This tool will generate sku (stock keeping unit) for e-commerce application}
   spec.description = %q{It takes the advantage of models and its associations to make it decodable unique over the application.}
-  spec.homepage = ""
+  spec.homepage = "https://github.com/pavanagrawal/sku_generator"
   spec.license = "MIT"
 
   spec.files = `git ls-files`.split($/)
