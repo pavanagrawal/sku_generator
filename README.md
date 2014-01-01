@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SkuGenerator
 
 It takes the advantage of models and its associations to make it decodable unique over the application.
